@@ -8,11 +8,14 @@ namespace DemoProject
 {
     class Program
     {
+        //add 2 numbers
         public static int Add(int x, int y)
         {
             return x + y;
         }
 
+
+        //substract 2 numbers
         public static int Sub(int x, int y)
         {
             return x - y;
