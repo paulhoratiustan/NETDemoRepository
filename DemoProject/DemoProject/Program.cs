@@ -24,6 +24,7 @@ namespace DemoProject
             int y = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("x+y=" + Add(x, y));
+
         }
     }
 }
