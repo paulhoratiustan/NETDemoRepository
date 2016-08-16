@@ -1,0 +1,6 @@
+C:\Users\Paul Horatiu Stan\Source\Repos\DemoGitRepository\DemoProject\DemoProject\bin\Debug\DemoProject.exe.config
+C:\Users\Paul Horatiu Stan\Source\Repos\DemoGitRepository\DemoProject\DemoProject\bin\Debug\DemoProject.exe
+C:\Users\Paul Horatiu Stan\Source\Repos\DemoGitRepository\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
+C:\Users\Paul Horatiu Stan\Source\Repos\DemoGitRepository\DemoProject\DemoProject\obj\Debug\DemoProject.csprojResolveAssemblyReference.cache
+C:\Users\Paul Horatiu Stan\Source\Repos\DemoGitRepository\DemoProject\DemoProject\obj\Debug\DemoProject.exe
+C:\Users\Paul Horatiu Stan\Source\Repos\DemoGitRepository\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
