@@ -11,6 +11,7 @@ namespace DemoProject
         //add 2 numbers
         public static int Add(int x, int y)
         {
+
             return x + y;
         }
 
@@ -18,6 +19,7 @@ namespace DemoProject
         //substract 2 numbers
         public static int Sub(int x, int y)
         {
+
             return x - y;
         }
 
