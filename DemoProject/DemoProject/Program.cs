@@ -13,6 +13,11 @@ namespace DemoProject
             return x + y;
         }
 
+        public static int Sub(int x, int y)
+        {
+            return x - y;
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
@@ -24,6 +29,7 @@ namespace DemoProject
             int y = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("x + y = " + Add(x, y));
+            Console.WriteLine("x - y = " + Sub(x, y));
         }
     }
 }
