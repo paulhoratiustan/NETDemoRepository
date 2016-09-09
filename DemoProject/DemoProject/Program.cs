@@ -36,6 +36,8 @@ namespace DemoProject
             Console.WriteLine("x + y = " + Add(x, y));
 
             Console.WriteLine("x - y = " + Sub(x, y));
+
+            Console.WriteLine("Test");
         }
     }
 }
