@@ -6,6 +6,14 @@ namespace DemoProject
 {
     class Program
     {
+<<<<<<< HEAD
+=======
+        private static Operation _add;
+
+        delegate int Operation(int x, int y);
+
+>>>>>>> origin/Update123Branch
+        //add 2 numbers
         public static int Add(int x, int y)
         {
 
@@ -35,11 +43,15 @@ namespace DemoProject
                 return x + y;
             };
 
-            Console.WriteLine("x + y = " + Add(x, y));
+            Console.WriteLine(_add(1, 200));
+            
 
+<<<<<<< HEAD
             Console.WriteLine("x - y = " + Sub(x, y));
 
             Console.WriteLine("Test");
+=======
+>>>>>>> origin/Update123Branch
         }
     }
 }
