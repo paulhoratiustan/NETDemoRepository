@@ -39,9 +39,6 @@ namespace DemoProject
 
             Console.WriteLine("Test");
 
-            Console.WriteLine("New Line");
-
-            Console.WriteLine("Second Line");
         }
     }
 }
