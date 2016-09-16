@@ -38,6 +38,10 @@ namespace DemoProject
             Console.WriteLine("x - y = " + Sub(x, y));
 
             Console.WriteLine("Test");
+
+            Console.WriteLine("New Line");
+
+            Console.WriteLine("Second Line");
         }
     }
 }
