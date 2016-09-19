@@ -11,8 +11,8 @@ namespace DemoProject
         private string _name = null;
         private string Name
         {
-            get { return value; }
-            set { value = }
+            get { return _name; }
+            set { _name = value; }
         }
     }
 }
