@@ -39,6 +39,7 @@ namespace DemoProject
 
             Console.WriteLine("Test");
 
+            Console.WriteLine("Should be committed on branch 1");
         }
     }
 }
